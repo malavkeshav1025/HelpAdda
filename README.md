@@ -11,7 +11,7 @@ HelpAdd is a community support platform where users can share their problems, re
 * Responsive design
 
 ## 🛠️ Tech Stack
-
+ 
 * HTML5
 * CSS3
 * JavaScript
